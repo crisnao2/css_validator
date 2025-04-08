@@ -1,3 +1,10 @@
+# 1.0.0 (2025-04-08)
+
+
+### Features
+
+* Initial implementation CSS Validator ([7f069d4](https://github.com/crisnao2/css_validator/commit/7f069d4fda8274fdec1716d955ce9114a1b45448))
+
 # 1.0.0 (2025-04-06)
 
 
